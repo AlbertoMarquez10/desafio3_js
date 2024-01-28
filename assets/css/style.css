@@ -1,0 +1,19 @@
+.tamano{
+    width: 200px;
+    height: 200px;
+}
+#cuadrado1{
+    background-color: blue;
+}
+#cuadrado2{
+    background-color: red;
+}
+#cuadrado3{
+    background-color: green;
+}
+#cuadrado4{
+    background-color: yellow;
+}
+.borde{
+    border: 3px solid black;
+}
